@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="square4" size="1.000000 1.000000" />
+    <ImageTarget name="modifiedtriangle" size="1.000000 0.854667" />
+    <ImageTarget name="SamanthaBratze" size="0.500000 0.498756" />
+    <ImageTarget name="emilytarget" size="0.500000 0.382287" />
+    <ImageTarget name="target2" size="0.750000 1.132075" />
+    <ImageTarget name="hqdefault7" size="0.500000 0.375000" />
+  </Tracking>
+</QCARConfig>
